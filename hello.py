@@ -1,4 +1,3 @@
 def print_hello(person):
     print(f'안녕, {person}.')
-    print(f'hello, {person}.')
-
+    print(f'helo, {person}.')
